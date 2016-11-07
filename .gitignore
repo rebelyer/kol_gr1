@@ -1,0 +1,5 @@
+# Precompiled python files
+*.pyc
+
+# IDE directory
+.idea
